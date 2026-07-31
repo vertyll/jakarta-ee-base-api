@@ -16,7 +16,7 @@ Jakarta EE template REST API.
 
 ### Core back-end:
 
-- Gradle multi module build system
+- Gradle multi-module build system
 - the application has an exception handling mechanism
 - the application has a logging mechanism
 
@@ -29,6 +29,7 @@ Jakarta EE template REST API.
 - Error Prone for static code analysis
 - Spotless for code formatting
 
-> **Note:** During application development, SOLID principles, DRY, composition over inheritance, dependency injection,
+> [!NOTE]
+> During application development, SOLID principles, DRY, composition over inheritance, dependency injection,
 > design patterns, architectural patterns were applied, tests were written, and other good programming practices were
 > adopted.
