@@ -3,11 +3,11 @@
 pmd = "7.26.0"
 errorprone-plugin = "5.1.0"
 nullaway-plugin = "3.1.0"
-spotless = "8.8.0"
+spotless = "8.9.0"
 
 # SpotBugs and FindSecBugs
-spotbugs = "6.5.8"
-spotbugs-annotations = "4.9.8"
+spotbugs = "6.5.10"
+spotbugs-annotations = "4.10.3"
 findsecbugs = "1.14.0"
 
 # Java & Jakarta EE
@@ -34,7 +34,7 @@ mongodb-driver = "5.6.2"
 jjwt = "0.13.0"
 
 # Lombok
-lombok = "1.18.42"
+lombok = "1.18.46"
 
 # MapStruct
 mapstruct = "1.6.3"
@@ -43,7 +43,7 @@ mapstruct = "1.6.3"
 lombok-mapstruct-binding = "0.2.0"
 
 # Guava
-guava = "33.5.0-jre"
+guava = "33.6.0-jre"
 guava-beta-checker = "1.0"
 
 # Testing
@@ -54,7 +54,7 @@ rest-assured = "5.5.0"
 
 # Code Quality
 eclipse-jdt = "4.39"
-jspecify = "1.0.0"
+jspecify = "1.0.1"
 errorprone = "2.50.0"
 nullaway = "0.13.7"
 
