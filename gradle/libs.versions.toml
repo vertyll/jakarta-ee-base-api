@@ -3,7 +3,7 @@
 pmd = "7.26.0"
 errorprone-plugin = "5.1.0"
 nullaway-plugin = "3.1.0"
-spotless = "8.9.0"
+spotless = "8.10.0"
 
 # SpotBugs and FindSecBugs
 spotbugs = "6.5.10"
@@ -53,7 +53,7 @@ assertj = "3.27.3"
 rest-assured = "5.5.0"
 
 # Code Quality
-eclipse-jdt = "4.39"
+eclipse-jdt = "4.40"
 jspecify = "1.0.1"
 errorprone = "2.50.0"
 nullaway = "0.13.7"
