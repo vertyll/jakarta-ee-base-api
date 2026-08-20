@@ -6,7 +6,7 @@ nullaway-plugin = "3.1.0"
 spotless = "8.10.0"
 
 # SpotBugs and FindSecBugs
-spotbugs = "6.5.10"
+spotbugs = "6.5.11"
 spotbugs-annotations = "4.10.3"
 findsecbugs = "1.14.0"
 
