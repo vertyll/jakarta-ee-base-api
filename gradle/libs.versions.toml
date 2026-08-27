@@ -3,7 +3,7 @@
 pmd = "7.26.0"
 errorprone-plugin = "5.1.1"
 nullaway-plugin = "3.2.0"
-spotless = "8.10.0"
+spotless = "8.10.1"
 
 # SpotBugs and FindSecBugs
 spotbugs = "6.5.11"
