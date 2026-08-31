@@ -1,6 +1,6 @@
 [versions]
 # Plugins
-pmd = "7.26.0"
+pmd = "7.27.0"
 errorprone-plugin = "5.1.1"
 nullaway-plugin = "3.2.0"
 spotless = "8.10.1"
